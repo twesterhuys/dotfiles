@@ -1,0 +1,13 @@
+{
+  "github-actions.use-enterprise": true,
+  "redhat.telemetry.enabled": true,
+  "makefile.configureOnOpen": true,
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "editor.fontFamily": "'Fira Code', monospace",
+  "window.autoDetectColorScheme": true,
+  "[github-actions-workflow]": {
+    "editor.defaultFormatter": "redhat.vscode-yaml"
+  },
+  "files.insertFinalNewline": true,
+}
